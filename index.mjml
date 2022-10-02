@@ -1,0 +1,129 @@
+<mjml>
+    <mj-body>
+        <mj-raw>
+          <!--header-->  
+        </mj-raw>
+        <mj-section css-class='header' background-color="#000">
+        	<mj-column background-color="#000">
+                <mj-image width="150px" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlTplXnaC_GkacXGDIoLX8P3rmloOxcG7aE_4po2vc&s"/>
+        	</mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!--category headers-->
+        </mj-raw>
+
+        <mj-section background-color="#000">
+             <mj-column border-right="1px solid grey">
+                <mj-text font-size="23px" color="#fff" align="center">
+                   <a href="https://www.footlocker.com/category/mens/shoes/nike/air-max.html" target="_blank" style="text-decoration:none;color: #fff;">Men's</a>   
+                </mj-text>
+            </mj-column>
+            <mj-column border-right="1px solid grey">
+                <mj-text font-size="23px" color="#fff" align="center">
+                    <a href="https://www.footlocker.com/category/kids/shoes/nike/air-max.html" target="_blank" style="text-decoration: none;color: #fff;">Kids</a>   
+                </mj-text>
+            </mj-column>
+
+            <mj-column>
+                <mj-text font-size="23px" color="#fff" align="center">
+                    <a href="https://www.footlocker.com/search?query=women%27s%20airmax" target="_blank" style="text-decoration: none;color: #fff;">Women's</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!--main content image-->
+        </mj-raw>
+
+        <mj-section background-color="#000">
+            <mj-column>
+                <mj-image src="https://spacecadet.ventures/best-digital-2020/wp-content/uploads/2021/07/36.-Foot-Locker-The-Endless-World-of-Air-Max.jpg" />   
+            </mj-column>   
+        </mj-section>
+
+        <mj-raw>
+            <!--save message-->
+        </mj-raw>
+        <mj-section background-color="red">
+            <mj-column>
+                <mj-text font-size="30px" font-weight="600" color="#fff" align="center">
+                    Last Chance to Save Big         
+                </mj-text>      
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+          <!--paragraph text-->   
+        </mj-raw>
+
+        <mj-section background-color="red">
+            <mj-column>
+                <mj-text color="#fff" font-size="20px" align="center">
+                    The clock is ticking Today's your last day to save up to 30% off on must-haves from nike air max's.         
+                </mj-text>       
+            </mj-column>      
+        </mj-section>
+
+        <mj-raw>
+          <!--button section-->  
+        </mj-raw>
+        <mj-section background-color="red">
+            <mj-column>
+                <mj-button background-color="#fff" color="#000"><a href="https://www.footlocker.com/search?query=airmax%20sale" style="color: #000;text-decoration: none;" target="_blank" style="text-decoration: none;">Shop Air Max Sale</a></mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+          <!--footer section-->  
+        </mj-raw>
+        <mj-section>
+            <mj-group>
+               <mj-column>
+                    <mj-image align="left" width="70px" src="https://logos-world.net/wp-content/uploads/2022/04/Foot-Locker-Logo.png">
+                </mj-column> 
+
+                <mj-column>
+                    <mj-social>
+                        <mj-social-element  src="https://i.pinimg.com/originals/64/c7/c8/64c7c86fd70cb2aea77b49fd340164b3.webp">        
+                        </mj-social-element>       
+                    </mj-social>
+                </mj-column>
+
+                <mj-column>
+                    <mj-social>
+                        <mj-social-element src="https://i.pinimg.com/originals/bd/51/0c/bd510c9c46e3c3a1388776dfb11f5ed9.png">                       
+                        </mj-social-element>             
+                    </mj-social>      
+                </mj-column> 
+
+                <mj-column>
+                    <mj-social>
+                        <mj-social-element src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Facebook%2BIcon%2BBlack.png">
+                                        
+                        </mj-social-element>            
+                    </mj-social>     
+                </mj-column>  
+            </mj-group>
+        </mj-section>
+        <mj-raw>
+            <!--footer text-->   
+        </mj-raw>
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="10px">
+                    **Order values must be total $50 or more before services, taxes, and shipping & handling. Savings are automatically applied at checkout. Offer is limited to standard ground delivery within the 48 states and APO/FPO.      
+                </mj-text>   
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="10px">
+                    To keep getting Foot Locker newsletters, add <a href="#">footlocker@bc.footlocker.com</a> to your email address book. This email was sent to jbad22@gmail.com. You can <a href="#">unscribe from all future emails</a>.          
+                </mj-text>       
+            </mj-column>   
+        </mj-section>
+
+    </mj-body>
+</mjml>
